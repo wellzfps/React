@@ -1,0 +1,12 @@
+.descricao{
+    font-size: large;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.descricao p {
+    text-align: justify;
+    width: 300px;
+}
